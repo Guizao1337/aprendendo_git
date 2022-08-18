@@ -1,0 +1,14 @@
+Git é um sistemas de contole de versões usado no desenvolvimento de software e permite que vários desenvolvedores trabalhem simultaneamente, permite consultar o histórico de alteração de cada desenvolvedor. O Git trata os arquivos como se fosse um conjunto de imagens, o Git tem três principais estados, commited, modificado e preparado
+
+Principais comandos :
+
+git init
+git add
+git status
+git diff
+touch
+git commit -m "mensagem"
+git remote add origin (link do repositorio)
+git brench
+git checkout
+git push
